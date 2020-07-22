@@ -1,0 +1,6 @@
+Packing list
+------------
+Jacket
+Shoes
+Trousers
+Raincoat
